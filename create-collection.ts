@@ -57,3 +57,4 @@ const createdCollectionNft = await fetchDigitalAsset(
 console.log('Created Collection', getExplorerLink('address', createdCollectionNft.mint.publicKey, 'devnet'));
 
 
+
